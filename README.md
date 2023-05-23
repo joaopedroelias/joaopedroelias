@@ -7,6 +7,6 @@ Quem sou eu:
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-### Estatísticas dos meu GitHub:
+### Estatísticas do meu GitHub:
 [![](https://github-readme-stats.vercel.app/api?username=joaopedroelias
 )](https://github.com/anuraghazra/github-readme-stats)
