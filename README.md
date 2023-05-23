@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**joaopedroelias/joaopedroelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá, amigos!
+Quem sou eu:
+- Me chamo João Pedro Elias da Silva;
+- Estudo Engenharia de software no IFSP, em São Carlos;
+- Me interesso, principalmente, pelo desenvolvimento Front-end.
+## Tecnologias que venho estudando:
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+### Estatísticas dos meu GitHub:
+[![](https://github-readme-stats.vercel.app/api?username=joaopedroelias
+)](https://github.com/anuraghazra/github-readme-stats)
