@@ -4,7 +4,7 @@
 
 Undergraduate in **Applied Mathematics and Scientific Computing at ICMC, University of São Paulo (USP)**.
 
-I am interested in applying mathematics and Python to practical problems in machine learning and artificial intelligence, with an emphasis on clear reasoning, reliable evaluation, and useful applications.
+My focus is on developing machine learning models and AI applications to solve real-world problems, grounded in applied mathematics and Python.
 
 ## Projects
 
