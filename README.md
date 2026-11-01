@@ -13,12 +13,9 @@ My focus is connecting mathematical reasoning with Python implementations, caref
 
 These are learning priorities, not a claim of completed projects or professional experience.
 
-## Explore my work
+## Building my AI portfolio
 
-| Repository | What to expect |
-| --- | --- |
-| [Data science foundations](https://github.com/joaopedroelias/data_science) | An early-stage São Paulo real-estate data preparation project. Dataset and project structure are present; analysis and models are still to be implemented. |
-| [AI engineering study resource](https://github.com/joaopedroelias/ai-engineering-from-scratch) | A fork of the curriculum by [Rohit Ghumare and contributors](https://github.com/rohitg00/ai-engineering-from-scratch), kept as an external learning resource. The upstream lessons and reference projects are not my original work. |
+I am preparing this GitHub for the projects I will build throughout a new ML and AI engineering learning path. Future projects will be featured here as they are implemented and documented.
 
 ## How I plan to document progress
 
